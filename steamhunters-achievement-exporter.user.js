@@ -9,7 +9,7 @@
 // @grant        none
 // @downloadURL  https://raw.githubusercontent.com/zelda0079/steamhunters-achievement-exporter/main/steamhunters-achievement-exporter.user.js
 // @updateURL    https://raw.githubusercontent.com/zelda0079/steamhunters-achievement-exporter/main/steamhunters-achievement-exporter.user.js
-// @liscense     MIT
+// @license       MIT
 // ==/UserScript==
 
 (function () {
